@@ -1,9 +1,36 @@
+/* common class */
 .buy-now{
 
-        background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
-        color: #fff;
-        border: none;
-        border-radius: 8px;
-        padding: 9px 25px;
-        cursor: pointer;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+/* carousel slider section */
+
+.carousel{
+    background-color: #fceae8;  
+}
+.price {
+    color: #FF136F;
+}
+
+/* Shoes and bags section style */
+.card{
+    box-shadow: 5px 5px 10px lightgrey;
+
+}
+ 
+
+
+/* footer section */
+
+.bg-color{
+    
+        background-color: #fceae8;
+        border-radius: 10px;
+    
 }
